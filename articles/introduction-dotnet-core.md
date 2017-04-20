@@ -104,7 +104,8 @@ Conclusion
 It is one of the most exciting times to be a .NET developer, being able to write code that runs across IoT devices, phones, tablets, laptops, desktops, holographic devices, servers or the cloud and share it across multiple operating systems, with familiar processes and tools.
 
 
-
+[Get Started with .NET Core](https://docs.microsoft.com/en-us/dotnet/articles/core/tutorials/)
+--------------------------
 
 
 Useful links and documentation
